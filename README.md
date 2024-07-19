@@ -5,7 +5,7 @@
 > 배경 : 스터디 활동 등을 하면서 다른 사람들의 얘기를 들을 때 인사이트를 얻게 되는 경우들이 있는데, 얘기가 끝난 뒤에 까먹어 버린 경우가 있다. 그런 인사이트들을 놓치지 않도록 내 것으로 만드는 활동을 해보자!!!
 
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/d2b7eebe-5db5-4314-ba9f-7a9982c31eca alt="하하"/>
+  <img src="https://github.com/user-attachments/assets/d2b7eebe-5db5-4314-ba9f-7a9982c31eca" alt="하하" style="width: 100%;" />
   <br />(당신의 관점 내가 갖겠어)
 </p>
 
